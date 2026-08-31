@@ -2,6 +2,11 @@
 
 本文档为个人学习研究使用的api文档，以便开发Kivowiki-Mods项目的相关模块，并非古书馆官方公开的正式文档，不具有绝对的稳定性和可靠性，仅供参考。
 
+Kivowiki-Mods项目见：
+
+[https://github.com/AsaMisogi/Kivowiki-Mods-Core](https://github.com/AsaMisogi/Kivowiki-Mods-Core)
+
+
 ## 1. 快速开始
 
 所有接口均为 `GET` 请求，公共基础地址为：
