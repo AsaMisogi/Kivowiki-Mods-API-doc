@@ -122,7 +122,6 @@ function toResourceUrl(value) {
 | 展示站内公告 | `/bulletins`、`/bulletins/{id}` |
 | 展示当前卡池、活动和总力战 | `/data/pick_up`、`/data/event/now`、`/data/raid/now` |
 | 制作随机推荐或幸运物 | `/data/lucky_item` |
-| 展示 KivoWiki 统计 | `/statistics/index` |
 | 获取当前静态资源主机 | `/upload/file_server` |
 
 ## 4. 角色、学校和物品
